@@ -1,5 +1,5 @@
-# Individual_Project-Responsive_Animated_Product_Card
+# Responsive Animated Product Card
 
-## The Description
+## Description
 
 This is a responsive website design for animated product card. You can access the website through the attached link.
